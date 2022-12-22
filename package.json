@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-marktplaats-post",
+  "version": "1.0.0",
+  "description": "A script to automate posting listings on marktplaats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martijndewin/Puppeteer-marktplaats-post.git"
+  },
+  "author": "Martijn de Win",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martijndewin/Puppeteer-marktplaats-post/issues"
+  },
+  "homepage": "https://github.com/Martijndewin/Puppeteer-marktplaats-post#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
